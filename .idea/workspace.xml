@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68611e47-9e02-478e-b381-a97815c06d19" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/springframework/samples/petclinic/model/ValidatorTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/springframework/samples/petclinic/model/ValidatorTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
